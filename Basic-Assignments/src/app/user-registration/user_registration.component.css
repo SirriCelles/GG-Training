@@ -1,0 +1,19 @@
+body {
+    background: lightgray;
+    margin: 0;
+}
+
+form {
+    /* background: lightcyan; */
+}
+
+h4{
+    padding: 5px;
+    color: cornflowerblue;
+    text-align: left;
+}
+
+.bttn {
+    display: inline-flex;
+    padding-right: 30px;
+}
